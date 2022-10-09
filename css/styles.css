@@ -1,0 +1,1346 @@
+body {
+  background-color: black;
+  height: 97.5vh;
+  cursor: crosshair;
+}
+
+.startingtitle {
+  text-shadow: darkred;
+  font-weight: lighter;
+  font-family: Arial sans-serif;
+  position: absolute;
+  color: red;
+  top: 21.5vh;
+  font-size: 8vw;
+  margin-left: 25.8vw;
+  padding-bottom: 10px;
+  -webkit-animation: fadeIn 6s ease-in alternate;
+  -moz-animation: fadeIn 6s ease-in alternate;
+  -o-animation: fadeIn 6s ease-in alternate;
+  -ms-animation: fadeIn 6s ease-in alternate;
+}
+
+.chapter1 {
+  font-size: 2.5vw;
+  position: absolute;
+  color: darkred;
+  left: 41vw;
+  top: 50vh;
+  -webkit-animation: fadeIn 7s ease-in alternate;
+  -moz-animation: fadeIn 7s ease-in alternate;
+  -o-animation: fadeIn 7s ease-in alternate;
+  -ms-animation: fadeIn 7s ease-in alternate;
+}
+
+.mainscreentitle {
+  font-weight: lighter;
+  font-family: Arial sans-serif;
+  position: absolute;
+  color: #FF1700;
+  font-size: 750%;
+  top: 20vh;
+  margin-left: 35.2vw;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.openingflames {
+  position: absolute;
+  width: 99vw;
+  height: 99vh;
+  opacity: 70%;
+  -webkit-animation: fadeIn 6s ease-in alternate;
+  -moz-animation: fadeIn 6s ease-in alternate;
+  -o-animation: fadeIn 6s ease-in alternate;
+  -ms-animation: fadeIn 6s ease-in alternate;
+}
+
+.flames {
+  position: absolute;
+  width: 99vw;
+  height: 99vh;
+  opacity: .5;
+}
+
+
+h6 {
+  position: absolute;
+  color: white;
+  font-size: 1.2vw;
+  bottom: 10vh;
+  margin-left: 43.5vw;
+  -webkit-animation: fadeIn 5s ease-in alternate;
+  -moz-animation: fadeIn 5s ease-in alternate;
+  -o-animation: fadeIn 5s ease-in alternate;
+  -ms-animation: fadeIn 5s ease-in alternate;
+}
+
+.backgroundlink {
+  width: 99vw;
+  height: 99vh;
+  cursor: crosshair;
+}
+
+.WARNING {
+  position: absolute;
+  font-size: 8vw;
+  margin-left: 29.5vw;
+  top: 10.3vh;
+  color: red;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.warningtext {
+
+  font-weight: 500;
+  font-size: 2vw;
+  color: white;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.warningtextdiv {
+  font-weight: 500;
+  text-align: center;
+  position: absolute;
+  width: 41vw;
+  left: 30vw;
+  top: 38vh;
+  opacity: 100;
+}
+
+.loading {
+  position: absolute;
+  width: 5vw;
+  height: 9vh;
+  bottom: 20vh;
+  left: 47.5vw;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.nonadult {
+  cursor: crosshair;
+  font-weight: bold;
+  position: absolute;
+  color: grey;
+  font-size: 1.5vw;
+  left: 30vw;
+  bottom: 29vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.nonadult:hover {
+  color: white;
+  font-size: 1.6vw;
+  margin-left: -3px;
+}
+
+.adult {
+  font-weight: bold;
+  position: absolute;
+  color: grey;
+  font-size: 1.5vw;
+  right: 30vw;
+  bottom: 29vh;
+  cursor: crosshair;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.adult:hover {
+  color: white;
+  font-size: 1.6vw;
+  margin-right: -3px;
+}
+
+.fullscreen {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  position: absolute;
+  bottom: 6vh;
+  font-size: .9vw;
+  margin-left: 38.5vw;
+  color: white;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.options1 {
+  font-size: 2vw;
+  text-decoration: none;
+  position: absolute;
+  color: red;
+  margin-left: 44vw;
+  top: 42vh;
+  cursor: crosshair;
+}
+
+
+.options1:hover {
+  color: white;
+  cursor: crosshair;
+}
+
+.options2 {
+  font-size: 2vw;
+  text-decoration: none;
+  position: absolute;
+  color: red;
+  margin-left: 45.3vw;
+  top: 47vh;
+  cursor: crosshair;
+}
+
+.options2:hover {
+  color: white;
+  cursor: crosshair;
+}
+
+.options3 {
+  font-size: 2vw;
+  text-decoration: none;
+  position: absolute;
+  color: red;
+  margin-left: 42.3vw;
+  top: 52vh;
+  cursor: crosshair;
+}
+
+.options3:hover {
+  color: white;
+  cursor: crosshair;
+}
+
+.title1 {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+
+.startgamebtn {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: absolute;
+  color: grey;
+  left: 45.1vw;
+  top: 70vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.startgamebtn:hover {
+  color: white;
+  font-size: 1.6vw;
+  padding: 0;
+  margin-left: -4px;
+}
+
+.howtoplaybtn {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: absolute;
+  color: grey;
+  left: 44.8vw;
+  top: 75vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.howtoplaybtn:hover {
+  color: white;
+  font-size: 1.6vw;
+  padding: 0;
+  margin-left: -4px;
+}
+
+.exittomainscreen {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: absolute;
+  color: grey;
+  left: 48.1vw;
+  top: 80vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.exittomainscreen:hover {
+  color: white;
+  font-size: 1.6vw;
+  padding: 0;
+  margin-left: -1px;
+}
+
+.DEMO {
+  font-weight: lighter;
+  color: white;
+  position: absolute;
+  font-size: 200%;
+  margin-left: 63.1vw;
+  top: 35vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.DEMO2 {
+  font-weight: lighter;
+  color: white;
+  position: absolute;
+  font-size: 2vw;
+  margin-left: 46.8vw;
+  top: 50vh;
+  -webkit-animation: fadeIn 5s ease-in alternate;
+  -moz-animation: fadeIn 5s ease-in alternate;
+  -o-animation: fadeIn 5s ease-in alternate;
+  -ms-animation: fadeIn 5s ease-in alternate;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.howtoplaybody {
+  background-color: black;
+}
+
+button {
+  border-color: darkgrey;
+  left: 41.7vw;
+  top: 70vh;
+  position: absolute;
+  font-weight: bold;
+  font-size: 40px;
+  background-color: darkred;
+  cursor: crosshair;
+  font-family: rockwell;
+}
+
+button:hover {
+  background-color: red;
+  color: white;
+}
+
+.menubtn1 {
+  font-weight: bold;
+  position: absolute;
+  top: 2vh;
+  left: 1vw;
+  font-size: 1.5vw;
+  cursor: crosshair;
+  text-decoration: none;
+  color: grey;
+}
+
+.menubtn1:hover {
+  color: white;
+  font-size: 1.6vw;
+}
+
+.restartbtn {
+  left: 5vw;
+  top: 2vh;
+  position: absolute;
+  font-size: 20px;
+}
+
+.level1header {
+  font-family: serif;
+  position: absolute;
+  margin-left: 45vw;
+  top: 40vh;
+  color: darkred;
+  font-size: 3vw;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.btn2 {
+  border-color: darkgrey;
+  left: 44vw;
+  top: 80vh;
+  position: absolute;
+  font-weight: bold;
+  font-size: 25px;
+  background-color: darkred;
+  cursor: crosshair;
+  font-family: rockwell;
+}
+
+.gobackbtn {
+  text-decoration: none;
+  color: grey;
+  font-size: 2vw;
+  position: absolute;
+  bottom: 5vh;
+  left: 3vw;
+}
+
+.gobackbtn:hover {
+  color: white;
+  cursor: crosshair;
+}
+
+.img {
+  left: -2vw;
+  position: absolute;
+  width: 45vw;
+  height: 99vh;
+  -webkit-animation: fadeIn 3s ease-in alternate;
+  -moz-animation: fadeIn 3s ease-in alternate;
+  -o-animation: fadeIn 3s ease-in alternate;
+  -ms-animation: fadeIn 3s ease-in alternate;
+}
+
+.img2 {
+  left: -2vw;
+  position: absolute;
+  width: 45vw;
+  height: 99vh;
+}
+
+/**************************************** HOW TO PLAY */
+.h12 {
+  font-family: serif;
+  position: absolute;
+  left: 39.5vw;
+  top: 13vh;
+  color: red;
+  font-size: 4vw;
+}
+
+.h41 {
+  font-weight: lighter;
+  position: absolute;
+  left: 36.5vw;
+  top: 34vh;
+  color: darkred;
+  font-size: 1.6vw;
+}
+
+.h42 {
+  font-weight: lighter;
+  position: absolute;
+  left: 38.2vw;
+  top: 40vh;
+  color: darkred;
+  font-size: 1.6vw;
+}
+
+.h43 {
+  font-weight: lighter;
+  position: absolute;
+  left: 41.5vw;
+  top: 46vh;
+  color: darkred;
+  font-size: 1.6vw;
+}
+
+.h44 {
+  font-weight: lighter;
+  position: absolute;
+  left: 40.5vw;
+  top: 52vh;
+  color: darkred;
+  font-size: 1.6vw;
+}
+
+.h45 {
+  font-weight: lighter;
+  position: absolute;
+  left: 36vw;
+  top: 60vh;
+  color: darkred;
+  font-size: 1.8vw;
+}
+
+.h46 {
+  font-weight: lighter;
+  position: absolute;
+  left: 25vw;
+  top: 75vh;
+  color: darkred;
+  font-size: 1.25vw;
+}
+
+.menubtn {
+  font-weight: bold;
+  position: absolute;
+  bottom: 10vh;
+  left: 46vw;
+  font-size: 1.5vw;
+  cursor: crosshair;
+  text-decoration: none;
+  color: grey;
+}
+
+.menubtn:hover {
+  color: white;
+  font-size: 1.6vw;
+  padding: 0;
+  margin-left: -3px;
+}
+
+/******************************** WELCOME TO HELL */
+h3{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.continuebtn {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: absolute;
+  color: darkred;
+  left: 85vw;
+  top: 63vh;
+  -webkit-animation: fadeIn 5s ease-in alternate;
+  -moz-animation: fadeIn 5s ease-in alternate;
+  -o-animation: fadeIn 5s ease-in alternate;
+  -ms-animation: fadeIn 5s ease-in alternate;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.continuebtn:hover {
+  color: white;
+}
+
+/****************************** SCENE ONE************* */
+.scene1 {
+  width: 99vw;
+  height: 98vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.menubtn1 {
+  top: 2vh;
+  left: 1vw;
+  font-size: 1.5vw;
+}
+
+.blanket {
+  top: 75vh;
+  left: 50vw;
+  position: absolute;
+  width: 5vw;
+  height: 10vh;
+  opacity: 0;
+  cursor: crosshair;
+}
+.blanket:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.blankettext{
+  color: white;
+  font-size: 1.8vw;
+  bottom: -6.5vh;
+  right: -35vw;
+  position: absolute;
+  width: 60vw;
+}
+.blankettext:hover{
+  color: white;
+  opacity: 0;
+}
+.whiskey {
+  border-radius: 50%;
+  position: absolute;
+  width: 6vw;
+  height: 9vh;
+  top: 43vh;
+  right: 6.5vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.whiskey:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.whiskeytext {
+  color: white;
+  font-size: 1.8vw;
+  bottom: -39.5vh;
+  right: 22.5vw;
+  position: absolute;
+  width: 35vw;
+}
+.whiskeytext:hover{
+  color: white;
+  opacity: 0;
+}
+
+.pills {
+  border-radius: 50%;
+  position: absolute;
+  width: 10vw;
+  height: 5vh;
+  top: 52vh;
+  right: 6vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.pills:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.pillstext {
+  color: white;
+  font-size: 1.8vw;
+  bottom: -34.5vh;
+  right: 16.5vw;
+  position: absolute;
+  width: 35vw;
+}
+.pillstext:hover{
+  color: white;
+  opacity: 0;
+}
+
+.nothing {
+  position: absolute;
+  width: 20vw;
+  height: 80vh;
+  top: 15vh;
+  left: 2vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.nothing:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.nothingtext {
+  color: white;
+  font-size: 1.8vw;
+  bottom: 3.7vh;
+  right: -41vw;
+  position: absolute;
+  width: 21vw;
+}
+.nothingtext:hover{
+  color: white;
+  opacity: 0;
+}
+
+.dark {
+  position: absolute;
+  width: 22vw;
+  height: 35vh;
+  bottom: 1vh;
+  right: 3vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.dark:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.darktext {
+  color: white;
+  font-size: 1.8vw;
+  bottom: 7.5vh;
+  right: 20.5vw;
+  position: absolute;
+  width: 35vw;
+}
+.darktext:hover{
+  color: white;
+  opacity: 0;
+}
+
+.whiteboard {
+  top: 4vh;
+  right: 28vw;
+  position: absolute;
+  width: 25vw;
+  height: 45vh;
+  opacity: 0;
+  cursor: crosshair;
+}
+.whiteboard:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.whiteboardtext {
+  color: white;
+  font-size: 1.8vw;
+  top: 78.7vh;
+  right: 12.5vw;
+  position: absolute;
+  width: 17vw;
+}
+.whiteboardtext:hover{
+  color: white;
+  opacity: 0;
+}
+.whiteboard2 {
+  top: 4vh;
+  right: 28vw;
+  position: absolute;
+  width: 25vw;
+  height: 45vh;
+  opacity: 0;
+  cursor: crosshair;
+}
+.whiteboard2:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.whiteboard2text {
+  color: white;
+  font-size: 1.8vw;
+  top: 78.7vh;
+  right: 10.5vw;
+  position: absolute;
+  width: 20vw;
+}
+.whiteboard2text:hover{
+  color: white;
+  opacity: 0;
+}
+.candle {
+  position: absolute;
+  width: 6vw;
+  height: 7vh;
+  top: 40vh;
+  right: 15vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.candle:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.candletext {
+  color: white;
+  font-size: 1.8vw;
+  bottom: -44.4vh;
+  right: 25.5vw;
+  position: absolute;
+  width: 16.5vw;
+}
+.candletext:hover{
+  color: white;
+  opacity: 0;
+}
+
+/*SCENE TWO*/
+.scene2 {
+  width: 99vw;
+  height: 98vh;
+}
+
+.lighter{
+    position: absolute;
+    border-radius: 50%;
+    width: 5vw;
+    height: 5vh;
+    bottom: 31.5vh;
+    left: 52.5vw;
+    opacity: 0;
+    cursor: crosshair;
+  }
+  .lighter:hover{
+    opacity: 1;
+    -webkit-animation: fadeIn .3s ease-in alternate;
+    -moz-animation: fadeIn .3s ease-in alternate;
+    -o-animation: fadeIn .3s ease-in alternate;
+    -ms-animation: fadeIn .3s ease-in alternate;
+
+  }
+  .lightertext {
+    color: white;
+    font-size: 1.8vw;
+    bottom: -22.9vh;
+    right: -21.5vw;
+    position: absolute;
+    width: 35vw;
+  }
+  .lightertext:hover{
+    color: white;
+    opacity: 0;
+  }
+
+.lighter2 {
+  width: 40%;
+  height: 75%;
+  top: .8vh;
+  left: 1.15vw;
+  opacity: 100;
+  cursor: none;
+  position: absolute;
+  margin-left: 1px;
+}
+
+.invtbox1 {
+  border-style: double solid;
+  color: white;
+  left: 43.7vw;
+  bottom: 2vh;
+  position: absolute;
+  width: 3.5%;
+  height: 6%;
+  background-color: grey;
+  opacity: 40%;
+  cursor: none;
+}
+
+.invtbox1:hover {
+  opacity: 100;
+  color: white;
+  resize: both;
+  width: 4.3%;
+  height: 7.5%;
+  margin-left: -5px;
+  cursor: none;
+}
+
+.invtbox2 {
+  border-style: double solid;
+  color: white;
+  left: 48.4vw;
+  bottom: 2vh;
+  position: absolute;
+  width: 3.5%;
+  height: 6%;
+  background-color: grey;
+  opacity: 40%;
+  cursor: none;
+}
+
+.invtbox2:hover {
+  opacity: 100;
+  color: white;
+  resize: both;
+  width: 4.3%;
+  height: 7.5%;
+  margin-left: -7.9px;
+  cursor: none;
+}
+
+.invtbox3 {
+  border-style: double solid;
+  color: white;
+  left: 53.05vw;
+  bottom: 2vh;
+  position: absolute;
+  width: 3.5%;
+  height: 6%;
+  background-color: grey;
+  opacity: 40%;
+  cursor: none;
+
+}
+
+.invtbox3:hover {
+  opacity: 100;
+  color: white;
+  resize: both;
+  width: 4.3%;
+  height: 7.5%;
+  margin-left: -11px;
+  cursor: none;
+}
+
+.examinelighter {
+  position: absolute;
+  width: 12vw;
+  height: 25vw;
+  margin-left: 44.5vw;
+  margin-top: 25vh;
+  -webkit-animation: fadeIn .5s ease-in alternate;
+  -moz-animation: fadeIn .5s ease-in alternate;
+  -o-animation: fadeIn .5s ease-in alternate;
+  -ms-animation: fadeIn .5s ease-in alternate;
+}
+
+.examineinfo1 {
+  font-family: serif;
+  color: white;
+  position: absolute;
+  margin-left: 43.5vw;
+  bottom: 15vh;
+  font-size: 2vw;
+  -webkit-animation: fadeIn .5s ease-in alternate;
+  -moz-animation: fadeIn .5s ease-in alternate;
+  -o-animation: fadeIn .5s ease-in alternate;
+  -ms-animation: fadeIn .5s ease-in alternate;
+}
+
+.examineinfo2 {
+  font-family: serif;
+  color: white;
+  position: absolute;
+  left: 27vw;
+  bottom: 2vh;
+  font-size: 1.5vw;
+}
+
+.note{
+    position: absolute;
+    border-radius: 50%;
+    width: 15vw;
+    height: 13vh;
+    bottom: 14.5vh;
+    left: 40vw;
+    opacity: 0;
+    cursor: crosshair;
+  }
+  .note:hover{
+    opacity: 1;
+    -webkit-animation: fadeIn .3s ease-in alternate;
+    -moz-animation: fadeIn .3s ease-in alternate;
+    -o-animation: fadeIn .3s ease-in alternate;
+    -ms-animation: fadeIn .3s ease-in alternate;
+
+  }
+  .notetext {
+    color: white;
+    font-size: 1.8vw;
+    bottom: -5.9vh;
+    right: -14.5vw;
+    position: absolute;
+    width: 39vw;
+  }
+  .notetext:hover{
+    color: white;
+    opacity: 0;
+  }
+
+/***************************THE Note************/
+.TheNote {
+  width: 99vw;
+  height: 98vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+.continuebtn2 {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 150%;
+  position: absolute;
+  color: grey;
+  left: 65vw;
+  top: 62vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+  opacity: 70%;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.continuebtn2:hover {
+  color: white;
+  opacity: 100%;
+}
+
+.letter {
+  position: absolute;
+  width: 50vw;
+  height: 60vh;
+  bottom: 20vh;
+  right: 37vw;
+  opacity: 0;
+  cursor: crosshair;
+}
+.letter:hover{
+  opacity: 1;
+  -webkit-animation: fadeIn .3s ease-in alternate;
+  -moz-animation: fadeIn .3s ease-in alternate;
+  -o-animation: fadeIn .3s ease-in alternate;
+  -ms-animation: fadeIn .3s ease-in alternate;
+
+}
+.lettertext {
+  text-align: center;
+  color: white;
+  font-size: 1.8vw;
+  bottom: -14vh;
+  right: -5.5vw;
+  position: absolute;
+  width: 40.5vw;
+}
+.lettertext:hover{
+  color: white;
+  opacity: 0;
+}
+/************************SCENE THREE*********************/
+.scene3 {
+  width: 99vw;
+  height: 98vh;
+  -webkit-animation: fadeIn 2s ease-in alternate;
+  -moz-animation: fadeIn 2s ease-in alternate;
+  -o-animation: fadeIn 2s ease-in alternate;
+  -ms-animation: fadeIn 2s ease-in alternate;
+}
+
+/*****************************************SCENE FOUR************/
+.scene4 {
+  width: 99vw;
+  height: 98vh;
+  filter: sepia(1);
+  opacity: 20%;
+}
+
+.invtnotif {
+  font-weight: lighter;
+  color: white;
+  position: absolute;
+  bottom: 10vh;
+  left: 37vw;
+  font-size: 3vw;
+  cursor: crosshair;
+}
+
+.continuebtn3 {
+  cursor: crosshair;
+  text-decoration: none;
+  font-size: 1.5vw;
+  position: absolute;
+  color: grey;
+  left: 65vw;
+  bottom: 8vh;
+  -webkit-animation: fadeIn 1s ease-in alternate;
+  -moz-animation: fadeIn 1s ease-in alternate;
+  -o-animation: fadeIn 1s ease-in alternate;
+  -ms-animation: fadeIn 1s ease-in alternate;
+}
+
+.continuebtn3:hover {
+  color: white;
+}
+
+/******************************SCENE FIVE*******************/
+.scene4pt2 {
+  width: 99vw;
+  height: 98vh;
+}
+
+/***************************TABLE***********************/
+.tablescene {
+  width: 99vw;
+  height: 98vh;
+}
+
+.thecandle {
+  cursor: crosshair;
+  color: white;
+  border-radius: 50%;
+  top: 15vh;
+  left: 3vw;
+  position: absolute;
+  width: 35vw;
+  height: 40vh;
+  opacity: 0;
+
+}
+
+.thecandle:hover{
+  opacity: 1;
+}
+
+.wow{
+  font-size: 1.8vw;
+  bottom: -35vh;
+  right: -17vw;
+  position: absolute;
+}
+.wow:hover{
+  cursor: crosshair;
+opacity: 0;
+}
+.candlepuzzle{
+  position: absolute;
+  width: 99vw;
+  height: 98vh;
+  filter: sepia(1);
+}
+
+.COMINGSOON{
+  position: absolute;
+  color: white;
+  font-size: 5vw;
+  left: 20vw;
+  top: 30vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*******************/
